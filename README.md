@@ -4,6 +4,7 @@
 ## Setup
 
 ```bash
+python version: 2.7
 sudo apt-get update
 sudo apt-get install git python-pip build-essential libssl-dev libpopt-dev
 ```
@@ -27,7 +28,6 @@ Possible JSON responses
 ```
 
 ## Notes
-Python Version: 2.7
 
 We risk spamming smtp servers with these requests which can lead to getting ourselves added to spam lists.  
 
